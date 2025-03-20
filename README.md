@@ -1,7 +1,8 @@
 ## Hi there 👋
 ## I'm DukeAvi
 
-![tryhackme stats](https://raw.githubusercontent.com/<DukeAvi>/<DukeAvi>/master/assets/thm_propic.png)
+![tryhackme stats](<img src="https://tryhackme-badges.s3.amazonaws.com/dukexanadu.png" alt="Your Image Badge" />
+)
 
 <!--
 **DukeAvi/DukeAvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
