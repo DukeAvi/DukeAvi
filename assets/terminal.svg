@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="282" viewBox="0 0 864 282" role="img" aria-labelledby="title description">
+  <title id="title">Avrit Sharma</title>
+  <desc id="description">Avrit Sharma. Linux enthusiast and serial distrohopper. Neural nets and server-side quests. A moss-green Debian terminal and three pixel-style playing cards, with an ace of alien monsters at the front.</desc>
+  <defs>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#d4e9b5" stroke-opacity=".025"/>
+    </pattern>
+    <pattern id="card-back" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M5 1L9 5 5 9 1 5Z" fill="none" stroke="#78915b" stroke-width="1"/>
+    </pattern>
+    <style>
+      text { font-family: 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; text-rendering: geometricPrecision; }
+      .cursor { animation: blink 1.4s steps(1, end) infinite; }
+      @keyframes blink { 0%, 65% { opacity: 1; } 66%, 100% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="863" height="281" rx="10" fill="#141c16" stroke="#344334"/>
+  <path d="M11 1H853Q863 1 863 11V38H1V11Q1 1 11 1Z" fill="#1f2a20"/>
+  <path d="M1 38H863" stroke="#344334"/>
+  <circle cx="23" cy="20" r="4" fill="#bf796d"/>
+  <circle cx="39" cy="20" r="4" fill="#d0b676"/>
+  <circle cx="55" cy="20" r="4" fill="#91ad71"/>
+  <rect x="1" y="39" width="862" height="241" fill="url(#scanlines)" pointer-events="none"/>
+  <text x="432" y="24" text-anchor="middle" font-size="11" letter-spacing=".4" fill="#9aaa90">avrit@debian: ~</text>
+  <text x="32" y="76" font-size="13" fill="#a8c880">~ <tspan fill="#e5e9d5">$ whoami</tspan></text>
+  <text x="29" y="128" font-size="43" font-weight="700" letter-spacing="-2" fill="#e8ebd6">avrit sharma<tspan fill="#b9d68a">.</tspan></text>
+  <text x="32" y="164" font-size="13" fill="#b9d68a">linux enthusiast / serial distrohopper</text>
+  <text x="32" y="194" font-size="12" fill="#a5b09d">neural nets &amp; server-side quests.</text>
+  <g shape-rendering="crispEdges">
+    <path d="M639 90H709V94H713V190H709V194H639V190H635V94H639Z" fill="#263824" stroke="#7d9961" stroke-width="2"/>
+    <rect x="643" y="98" width="62" height="88" fill="url(#card-back)"/>
+    <path d="M673 77H743V81H747V177H743V181H673V177H669V81H673Z" fill="#a8bd86" stroke="#141c16" stroke-width="3"/>
+    <text x="678" y="99" font-size="15" font-weight="700" fill="#263824">K</text>
+    <path d="M703 115H711V123H719V131H727V139H719V147H711V155H703V147H695V139H687V131H695V123H703Z" fill="#496041"/>
+    <path d="M707 101H777V105H781V201H777V205H707V201H703V105H707Z" fill="#e8ebd6" stroke="#141c16" stroke-width="3"/>
+    <text x="712" y="123" font-size="15" font-weight="700" fill="#344a32">A</text>
+    <g id="alien-suit" transform="translate(720 137) scale(4)" fill="#79618e">
+      <path d="M2 0h1v1h-1ZM8 0h1v1h-1ZM3 1h1v1h-1ZM7 1h1v1h-1ZM2 2h7v1h-7ZM1 3h2v1h-2ZM4 3h3v1h-3ZM8 3h2v1h-2ZM0 4h11v1h-11ZM0 5h1v1h-1ZM2 5h7v1h-7ZM10 5h1v1h-1ZM0 6h1v1h-1ZM2 6h1v1h-1ZM8 6h1v1h-1ZM10 6h1v1h-1ZM3 7h2v1h-2ZM6 7h2v1h-2Z"/>
+    </g>
+    <text x="771" y="196" text-anchor="end" font-size="15" font-weight="700" fill="#344a32">A</text>
+  </g>
+  <path d="M32 224H832" stroke="#344334"/>
+  <text x="32" y="253" font-size="12" fill="#a8c880">~/projects <tspan fill="#e5e9d5">$ less README.md</tspan></text>
+  <rect class="cursor" x="251" y="241" width="8" height="15" fill="#b9d68a"/>
+  <text x="832" y="253" text-anchor="end" font-size="10" letter-spacing="1" fill="#7f9573">DUKEAVI</text>
+</svg>
