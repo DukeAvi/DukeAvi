@@ -1,3 +1,6 @@
+![Avrit Sharma](./assets/terminal.svg)
+
+<!--
 ## Hi there 👋
 ## I'm Avrit!
 
@@ -17,7 +20,7 @@
 - Enhancing proficiency in Data Structures and Algorithms
 
 ### 🌱 [Future projects bucket list (DON'T OPEN)](https://github.com/DukeAvi/DukeAvi/blob/main/assets/Snake.png)
-<!--
+
 **DukeAvi/DukeAvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
